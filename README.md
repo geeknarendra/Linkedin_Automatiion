@@ -13,7 +13,8 @@ Steps:
 2)Download Driver and locate it properly in driver executable path in code
 3)Now run the code 
 
-Error:
-If drivers are not correct or location of driver is not proper
+If found Error:
+Check driver path again
+
 
  
