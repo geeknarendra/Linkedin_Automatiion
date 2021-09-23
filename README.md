@@ -1,4 +1,4 @@
-# Linkedin_Automatiion
+# Linkedin_Automation
 
 This is my first program in selenium for "Linkedin Automation"
 
